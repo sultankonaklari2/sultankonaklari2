@@ -680,6 +680,7 @@ header .navbar .nav-item .nav-link:hover {
 /*-- team-leaders start --*/
 .team-leaders {
 	margin-bottom: 133px;
+	margin-top: 133px;
 }
 
 .team-leaders .inner {
