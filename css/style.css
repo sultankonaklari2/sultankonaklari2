@@ -752,7 +752,7 @@ header .navbar .nav-item .nav-link:hover {
 }
 
 .team-leaders .carousel-item-inner .fa-facebook-square {
-	color: #0054a6;
+	color: #b4a16b;
 }
 
 .team-leaders .carousel-item-inner .fa-twitter-square {
@@ -820,6 +820,14 @@ header .navbar .nav-item .nav-link:hover {
 .contact .contact-inner .form {
 	padding-top: 20px;
 	padding-bottom: 22px;
+	min-height: 500px;
+	color: white;
+}
+
+.contact .contact-inner .form h5,
+.contact .contact-inner .form h2,
+.contact .contact-inner .form a {
+	color: white;
 }
 
 .contact .form-control {
@@ -938,7 +946,7 @@ header .navbar .nav-item .nav-link:hover {
 
 .contact span i {
 	font-size: 28px;
-	color: #000000;
+	color: #b4a16b;
 	transition: 0.5s;
 }
 
