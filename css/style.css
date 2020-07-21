@@ -96,7 +96,7 @@ hr {
 
 /*-- header start --*/
 header.active {
-	background-color: #fdb714;
+	background-color: #b4a16b;
 	box-shadow: 0 0 4px rgba(0, 0, 0, 0.18);
 	margin-top: 0;
 }
@@ -113,7 +113,7 @@ header {
 header .side-bar {
 	width: 240px;
 	height: 78px;
-	background-color: #fdb714;
+	background-color: #b4a16b;
 }
 
 header .navbar-brand {
@@ -245,7 +245,7 @@ header .navbar .nav-item .nav-link:hover {
 	font-size: 20px;
 	color: #ffffff;
 	font-weight: bold;
-	background-color: #fdb714;
+	background-color: #b4a16b;
 	border-radius: 60px;
 	padding: 19px 36px;
 	text-align: center;
@@ -488,7 +488,7 @@ header .navbar .nav-item .nav-link:hover {
 
 .client-testimonials .client-testimonials-inner h5 {
 	font-size: 20px;
-	color: #fdb714;
+	color: #b4a16b;
 	font-weight: bold;
 	font-family: Arial, Helvetica, sans-serif;
 }
@@ -672,7 +672,7 @@ header .navbar .nav-item .nav-link:hover {
 }
 
 .construction-projects .carousel-indicators .active {
-	background-color: #fdb714;
+	background-color: #b4a16b;
 }
 
 /*-- construction-projects end --*/
@@ -844,7 +844,7 @@ header .navbar .nav-item .nav-link:hover {
 	font-weight: bold;
 	padding: 17px 35px;
 	text-align: center;
-	background-color: #fdb714;
+	background-color: #b4a16b;
 	border: 0;
 	border-radius: 60px;
 	margin-top: 9px;
@@ -918,8 +918,8 @@ header .navbar .nav-item .nav-link:hover {
 }
 
 .contact h5 a:hover {
-	color: #fdb714;
-	border-bottom: 1px solid #fdb714;
+	color: #b4a16b;
+	border-bottom: 1px solid #b4a16b;
 	display: inline-block;
 }
 
@@ -941,7 +941,7 @@ header .navbar .nav-item .nav-link:hover {
 }
 
 .contact span i:hover {
-	color: #fdb714;
+	color: #b4a16b;
 }
 
 /*-- contact-us end --*/
@@ -1039,7 +1039,7 @@ footer .fa-arrow-up:hover {
 }
 
 #myBtn:hover {
-	background-color: #fdb714;
+	background-color: #b4a16b;
 }
 
 #myBtn i {
@@ -1170,7 +1170,7 @@ footer .fa-arrow-up:hover {
 	header .side-bar {
 		width: 80px;
 		height: 78px;
-		background-color: #fdb714;
+		background-color: #b4a16b;
 	}
 
 	header .navbar .nav-item .nav-link {
@@ -1814,4 +1814,16 @@ footer .fa-arrow-up:hover {
 	span {
 		font-size: 14px;
 	}
+}
+
+
+
+
+
+header.active a.navbar-brand img {
+	height:70px;
+}
+
+.dnone {
+	display: none;
 }
