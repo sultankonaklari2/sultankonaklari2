@@ -200,7 +200,7 @@ header .navbar .nav-item .nav-link:hover {
 /*-- features start --*/
 .features {
 	background-image: url(../images/features-bg.png);
-	background-repeat: no-repeat;
+	background-repeat: repeat-y;
 	background-position: left;
 	width: 100%;
 	height: auto;
